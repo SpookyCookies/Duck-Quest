@@ -8,6 +8,6 @@ Filled with Easter Eggs, Foreshadowing ETC.
 I made this for fun while delaying trying to make my website work on all screens
 
 To install with linux:
-git clone https://github.com/SpookyCookies/Duck-Quest.git
-cd Duck-Quest
-python TextAdventure.py
+git clone https://github.com/SpookyCookies/Duck-Quest.git,
+cd Duck-Quest,
+python TextAdventure.py or python3 TextAdventure.py
