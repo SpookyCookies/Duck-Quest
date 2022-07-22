@@ -273,6 +273,7 @@ THE END."
 CandelEnding = "\u001b[1mYou pushed the candle and the flame has gone out now you have been swallowed by darkness\n\
 You try to run to the door you thought was there however by feeling the wall its not there anymore\n\
 You slowly go insane and starve to death\n\
+You got the WHY DID YOU PUT OUT THE CANDLE ENDING.\n\
 THE END."
 SpaceEnding = "\u001b[1mYou open the door and go into it falling into space, you cannot do anything else, you are stuck in space not being able to hear your own voice or move\n\
 You have achieved THE SPACE ENDING\n\
